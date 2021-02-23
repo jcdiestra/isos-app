@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdd8f0a6-e26f-4e42-97f1-ed5b188bac43" name="Default Changelist" comment="">
+    <list default="true" id="cdd8f0a6-e26f-4e42-97f1-ed5b188bac43" name="Default Changelist" comment="[feat] adding new table">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613775154161</updated>
     </task>
+    <task id="LOCAL-00001" summary="[feat] adding new table">
+      <created>1614036232899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614036232899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -44,5 +52,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[feat] adding new table" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] adding new table" />
   </component>
 </project>
